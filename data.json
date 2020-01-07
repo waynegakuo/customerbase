@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "age": 26
+    },
+    {
+      "id": "2",
+      "name": "Jane Jackie",
+      "email": "jane@gmail.com",
+      "age": 80
+    },
+    {
+      "id": "3",
+      "name": "Mike Ogwenyo",
+      "email": "mogwenyo@gmail.com",
+      "age": 49
+    },
+    {
+      "id": "5",
+      "name": "Nick Opiyo",
+      "email": "nopiyo@gmail.com",
+      "age": 22
+    },
+    {
+      "name": "Harry Kane",
+      "email": "harry@gmail.com",
+      "age": 55,
+      "id": "nq5Zojy"
+    },
+    {
+      "name": "Harry Kane",
+      "email": "harry@gmail.com",
+      "age": 55,
+      "id": "qGdabP_"
+    }
+  ]
+}
